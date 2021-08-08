@@ -176,10 +176,10 @@ img{
     color: black;
 }
 .logo{
-    width: 100px;
-    height: 30px;
+    width: 80px;
+    height: 38px;
     position: absolute;
-    top: 1;
+    top: 0;
     bottom: 0;
     cursor: pointer;
 }
