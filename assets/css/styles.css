@@ -344,7 +344,7 @@ img{
     border-radius: .5rem;
     cursor: pointer;
     backdrop-filter: blur(10px);
-    transition: .1s;
+    transition: .5s;
 }
 .portfolio__img:hover .portfolio__link{
     bottom: 0;
