@@ -175,9 +175,9 @@ img{
 .nav__logo{
     color: black;
 }
-.logo{
-    width: 84px;
-    height: 28px;
+.navbar-brand{
+    width: 100px;
+    height: 25px;
     position: absolute;
     top: 0;
     bottom: 0;
@@ -185,7 +185,7 @@ img{
 }
 .nav__toggle{
     color: var(--white-color);
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     cursor: pointer;
 }
 
